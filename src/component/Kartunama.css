@@ -1,0 +1,54 @@
+.kartu {
+    background-image: linear-gradient(rgba(255,255,255,0.75), rgba(255,255,255,0.75)),url(img/peta2.jpg);
+    background-position: center;
+    background-blend-mode: lighten;
+    width: 950px;
+    height: 550px;
+    padding: 2rem;
+    border-radius: 2rem;
+    border-style:solid;
+    border-color:grey;
+    border-width:0.5rem;
+    margin: 5rem;
+    
+}
+
+.kartu h2 { 
+    font-size: 2.5rem;
+    font-weight: bold;
+    position:relative;
+    left: 10rem;
+    top:-2rem;
+}
+
+.kartu img {
+    width: 320px;
+    position:relative;
+    top:-2.5rem;
+    border-radius: 10rem;
+    border-style: solid;
+    border-color: whitesmoke;
+}
+
+div .tabel {
+    font-size:30px;
+    font-family:monospace;
+    font-weight:bolder;
+}
+
+.kartu table{
+    position:relative;
+    left: 22rem;
+    top:-30rem;
+    
+}
+.kartu tr, td {
+    padding: 12px;
+}
+.ttd {
+    position:relative;
+    left:40rem;
+    top:-26rem;
+    border-color:grey;
+}
+
